@@ -1,7 +1,7 @@
 # BudgetIQ — Personal Finance Tracker
 ### Expense & Budget Manager Web Application
 
-> Built with HTML5 · CSS3 · JavaScript ES6+ · Chart.js
+> Built with HTML5 · CSS3 · JavaScript ES6+ 
 
 ---
 
@@ -123,4 +123,4 @@ Built as part of a 15-day Frontend Web Development Internship task.
 ---
 
 *Made with ♥ using HTML5, CSS3, and JavaScript*  
-*BudgetIQ © 2025 — MIT License*
+*BudgetIQ © 2026 — MIT License*
