@@ -1,4 +1,4 @@
-# FinFlow — Personal Finance Tracker
+# BudgetIQ — Personal Finance Tracker
 ### Expense & Budget Manager Web Application
 
 > Built with HTML5 · CSS3 · JavaScript ES6+ · Chart.js
@@ -8,14 +8,6 @@
 ## Project Overview
 
 FinFlow is a fully responsive, browser-based Personal Finance Tracker that helps users manage daily expenses, set monthly budgets, and visualise spending patterns through interactive charts. Built with vanilla HTML5, CSS3, and JavaScript ES6+, it requires no backend or build tools and runs entirely in the browser with data persisted via LocalStorage.
-
-| Field          | Details                                      |
-|----------------|----------------------------------------------|
-| Project Name   | FinFlow — Personal Finance Tracker           |
-| Internship     | Frontend Web Development Internship Task     |
-| Duration       | 15 Days                                      |
-| Version        | 1.0.0                                        |
-| License        | MIT                                          |
 
 ---
 
@@ -49,9 +41,6 @@ FinFlow is a fully responsive, browser-based Personal Finance Tracker that helps
 | HTML5           | Page structure and semantic markup                  |
 | CSS3            | Styling, animations, CSS variables, responsive design|
 | JavaScript ES6+ | App logic, DOM manipulation, event handling         |
-| Chart.js 4.4    | Doughnut and bar chart visualisations               |
-| LocalStorage    | Client-side data persistence                        |
-| Google Fonts    | Syne (headings) + DM Mono (body) typefaces          |
 
 ---
 
@@ -75,20 +64,7 @@ finflow/
 3. Double-click `index.html` to open it in your browser
 4. No build step, server, or install required
 
-### Option 2 — Clone via Git
-```bash
-git clone https://github.com/your-username/finflow.git
-cd finflow
-open index.html     # macOS
-start index.html    # Windows
 ```
-
-### Option 3 — Deploy to GitHub Pages
-1. Push all files to a GitHub repository
-2. Go to **Settings → Pages**
-3. Set Source to `main` branch, root folder
-4. Click **Save** — your app is live at `https://username.github.io/finflow`
-
 ---
 
 ## How to Use
@@ -142,9 +118,9 @@ Click the **⬇** button in the header to download all expenses as a `.csv` file
 Built as part of a 15-day Frontend Web Development Internship task.
 
 - GitHub: https://github.com/your-username
-- Live Demo: https://your-username.github.io/finflow
+- Live Demo:
 
 ---
 
 *Made with ♥ using HTML5, CSS3, and JavaScript*  
-*FinFlow © 2025 — MIT License*
+*BudgetIQ © 2025 — MIT License*
