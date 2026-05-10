@@ -117,8 +117,8 @@ Click the **⬇** button in the header to download all expenses as a `.csv` file
 
 Built as part of a 15-day Frontend Web Development Internship task.
 
-- GitHub: https://github.com/your-username
-- Live Demo:
+- GitHub: https://github.com/nishikumari790/personal_finance_tracker
+- Live Demo: https://nishikumari790.github.io/personal_finance_tracker/
 
 ---
 
